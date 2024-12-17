@@ -72,3 +72,6 @@
 [21:04:52] [Server thread/WARN]: Horse (vehicle of TheGatoxx7) moved wrongly! 1.6292506728678764
 [21:06:20] [Server thread/INFO]: TheGatoxx7 has reached the goal [Zombie Doctor]
 [21:13:56] [Server thread/INFO]: TheGatoxx7 has made the advancement [What a Deal!]
+[21:31:17] [Server thread/INFO]: TheGatoxx7 has made the advancement [Who is Cutting Onions?]
+[21:33:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-182, y=64, z=1245} jd{x=-182, y=62, z=1246}
+[21:33:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-182, y=64, z=1245} jd{x=-182, y=62, z=1246}
