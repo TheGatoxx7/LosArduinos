@@ -1978,6 +1978,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-17 22:46:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_the_recipe": "2024-12-17 22:46:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2024-12-17 22:44:36 +0000"
@@ -2020,6 +2032,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-17 22:46:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-17 22:37:46 +0000"
@@ -2035,6 +2053,12 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2024-12-17 20:10:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-17 22:46:54 +0000"
     },
     "done": true
   },
@@ -2059,6 +2083,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2024-12-17 19:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-17 22:46:54 +0000"
     },
     "done": true
   },
@@ -2119,6 +2149,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2024-12-17 22:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2024-12-17 22:46:12 +0000"
     },
     "done": true
   },

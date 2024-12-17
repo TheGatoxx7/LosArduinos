@@ -2456,6 +2456,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-17 22:47:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_yellow_carpet": {
     "criteria": {
       "has_needed_dye": "2024-12-17 21:08:07 +0000"
