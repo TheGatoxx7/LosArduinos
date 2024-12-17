@@ -75,3 +75,4 @@
 [21:31:17] [Server thread/INFO]: TheGatoxx7 has made the advancement [Who is Cutting Onions?]
 [21:33:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-182, y=64, z=1245} jd{x=-182, y=62, z=1246}
 [21:33:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-182, y=64, z=1245} jd{x=-182, y=62, z=1246}
+[21:41:56] [Server thread/INFO]: Villager cmk['Villager'/32882, l='ServerLevel[world]', x=-1018.17, y=65.00, z=1512.70] died, message: 'Villager was slain by Zombie'
