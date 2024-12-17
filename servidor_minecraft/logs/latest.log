@@ -231,3 +231,17 @@
 [02:35:55] [Server thread/INFO]: [Not Secure] <Gisi_13> chat full diamante
 [02:36:07] [Server thread/INFO]: [Not Secure] <Gisi_13> y a mi que chch
 [02:36:32] [Server thread/INFO]: [Not Secure] <Gisi_13> sera ps
+[02:37:06] [Server thread/INFO]: TheGatoxx7 lost connection: Disconnected
+[02:37:06] [Server thread/INFO]: TheGatoxx7 left the game
+[02:37:06] [Server thread/WARN]: handleDisconnection() called twice
+[02:37:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-840, y=-47, z=826} jd{x=-841, y=-48, z=827}
+[02:37:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-840, y=-47, z=826} jd{x=-841, y=-48, z=827}
+[02:38:53] [Server thread/INFO]: Gisi_13 has completed the challenge [It Spreads]
+[02:44:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-819, y=-42, z=826} jd{x=-820, y=-41, z=825}
+[02:44:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-816, y=-43, z=828} jd{x=-817, y=-43, z=829}
+[02:44:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-816, y=-43, z=828} jd{x=-817, y=-43, z=829}
+[02:44:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-837, y=-41, z=825} jd{x=-837, y=-41, z=826}
+[02:46:04] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-832, y=-45, z=859} jd{x=-833, y=-47, z=856}
+[02:46:04] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-832, y=-45, z=859} jd{x=-833, y=-47, z=856}
+[02:46:04] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-832, y=-45, z=859} jd{x=-833, y=-47, z=856}
+[02:46:04] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-832, y=-45, z=859} jd{x=-833, y=-47, z=856}
