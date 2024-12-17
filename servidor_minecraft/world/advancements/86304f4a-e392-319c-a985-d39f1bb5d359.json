@@ -845,7 +845,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-17 00:17:04 +0000",
-      "bread": "2024-12-17 00:32:31 +0000"
+      "bread": "2024-12-17 00:32:31 +0000",
+      "carrot": "2024-12-17 22:02:51 +0000"
     },
     "done": false
   },
@@ -1954,6 +1955,12 @@
     },
     "done": true
   },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2024-12-17 22:00:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2024-12-17 20:18:09 +0000"
@@ -1993,6 +2000,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2024-12-17 19:51:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-17 22:03:45 +0000"
     },
     "done": true
   },
