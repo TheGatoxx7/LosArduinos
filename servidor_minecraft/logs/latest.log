@@ -83,3 +83,5 @@
 [22:03:45] [Server thread/INFO]: Marcelox23 has made the advancement [What a Deal!]
 [22:08:31] [Server thread/INFO]: Marcelox23 has made the advancement [Cover Me with Diamonds]
 [22:13:34] [Server thread/INFO]: Marcelox23 has made the advancement [Enchanter]
+[22:44:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-1070, y=64, z=1725} jd{x=-1069, y=62, z=1726}
+[22:44:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-1070, y=64, z=1725} jd{x=-1069, y=62, z=1726}
