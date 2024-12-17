@@ -347,6 +347,7 @@
       "minecraft:witch": "2024-12-17 20:13:28 +0000",
       "minecraft:ravager": "2024-12-17 20:16:25 +0000",
       "minecraft:hoglin": "2024-12-17 02:16:58 +0000",
+      "minecraft:piglin": "2024-12-17 22:58:27 +0000",
       "minecraft:vindicator": "2024-12-17 20:14:00 +0000",
       "minecraft:spider": "2024-12-17 00:44:08 +0000",
       "minecraft:vex": "2024-12-17 22:32:23 +0000",
@@ -1674,7 +1675,9 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-12-17 02:16:46 +0000",
-      "minecraft:nether_wastes": "2024-12-17 02:17:11 +0000"
+      "minecraft:nether_wastes": "2024-12-17 02:17:11 +0000",
+      "minecraft:basalt_deltas": "2024-12-17 22:59:58 +0000",
+      "minecraft:warped_forest": "2024-12-17 23:00:04 +0000"
     },
     "done": false
   },
@@ -1996,6 +1999,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-17 22:59:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/cure_zombie_villager": {
     "criteria": {
       "cured_zombie": "2024-12-17 22:00:39 +0000"
@@ -2014,9 +2023,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-12-17 23:03:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2024-12-17 22:08:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-17 22:59:48 +0000"
     },
     "done": true
   },
@@ -2083,6 +2104,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2024-12-17 19:49:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-17 23:03:19 +0000"
     },
     "done": true
   },
