@@ -18,6 +18,7 @@
       "minecraft:deep_cold_ocean": "2024-12-17 00:53:27 +0000",
       "minecraft:frozen_ocean": "2024-12-17 00:05:09 +0000",
       "minecraft:frozen_river": "2024-12-17 00:04:46 +0000",
+      "minecraft:cherry_grove": "2024-12-18 03:16:05 +0000",
       "minecraft:grove": "2024-12-17 00:28:30 +0000",
       "minecraft:meadow": "2024-12-17 01:07:11 +0000",
       "minecraft:birch_forest": "2024-12-17 01:04:56 +0000",
@@ -1721,15 +1722,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2024-12-18 03:17:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2024-12-18 03:02:33 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2024-12-18 03:16:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2024-12-18 02:57:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2024-12-18 03:17:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2024-12-18 03:17:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2024-12-18 03:16:58 +0000"
     },
     "done": true
   },

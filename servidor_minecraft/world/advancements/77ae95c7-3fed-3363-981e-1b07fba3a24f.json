@@ -352,6 +352,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-17 00:02:55 +0000",
+      "minecraft:stray": "2024-12-18 03:19:59 +0000",
       "minecraft:witch": "2024-12-18 03:01:51 +0000",
       "minecraft:spider": "2024-12-17 01:05:18 +0000",
       "minecraft:zombie": "2024-12-17 00:01:33 +0000",
@@ -1745,9 +1746,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-18 03:12:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-18 03:12:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-18 03:08:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-18 03:12:18 +0000"
     },
     "done": true
   },
