@@ -23,9 +23,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-12-18 03:40:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2024-12-18 03:38:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-18 03:52:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-18 03:49:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-12-18 03:52:57 +0000"
     },
     "done": true
   },
@@ -95,6 +119,18 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-18 03:40:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-18 03:43:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-12-18 03:39:06 +0000"
@@ -104,6 +140,18 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2024-12-18 03:39:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-18 03:52:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-18 03:57:04 +0000"
     },
     "done": true
   },
@@ -131,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-18 03:41:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2024-12-18 03:39:06 +0000"
@@ -146,6 +200,18 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-12-18 03:39:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-18 03:52:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-18 03:52:57 +0000"
     },
     "done": true
   },
@@ -167,6 +233,24 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-18 03:41:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-18 03:41:05 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-18 03:49:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2024-12-18 03:38:51 +0000"
@@ -179,6 +263,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-18 03:52:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-18 03:49:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-18 03:41:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2024-12-18 03:39:27 +0000"
@@ -187,11 +289,19 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:frozen_ocean": "2024-12-18 03:35:56 +0000",
+      "minecraft:cold_ocean": "2024-12-18 03:53:02 +0000",
       "minecraft:snowy_slopes": "2024-12-18 03:38:17 +0000",
-      "minecraft:frozen_river": "2024-12-18 03:37:24 +0000",
+      "minecraft:forest": "2024-12-18 03:56:32 +0000",
+      "minecraft:taiga": "2024-12-18 03:46:34 +0000",
       "minecraft:stony_shore": "2024-12-18 03:35:17 +0000",
-      "minecraft:snowy_plains": "2024-12-18 03:35:08 +0000"
+      "minecraft:snowy_plains": "2024-12-18 03:35:08 +0000",
+      "minecraft:snowy_taiga": "2024-12-18 03:42:25 +0000",
+      "minecraft:frozen_ocean": "2024-12-18 03:35:56 +0000",
+      "minecraft:frozen_river": "2024-12-18 03:37:24 +0000",
+      "minecraft:grove": "2024-12-18 03:40:53 +0000",
+      "minecraft:meadow": "2024-12-18 03:56:19 +0000",
+      "minecraft:plains": "2024-12-18 03:56:36 +0000",
+      "minecraft:jagged_peaks": "2024-12-18 03:51:03 +0000"
     },
     "done": false
   },
@@ -225,9 +335,29 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "rotten_flesh": "2024-12-18 03:41:09 +0000",
+      "sweet_berries": "2024-12-18 03:46:56 +0000",
+      "carrot": "2024-12-18 03:57:23 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-12-18 03:39:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-18 03:52:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-18 03:41:09 +0000"
     },
     "done": true
   },
@@ -249,9 +379,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-18 03:52:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2024-12-18 03:39:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-18 03:52:57 +0000"
     },
     "done": true
   },
@@ -276,6 +418,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-18 03:39:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-18 03:43:23 +0000"
     },
     "done": true
   },
