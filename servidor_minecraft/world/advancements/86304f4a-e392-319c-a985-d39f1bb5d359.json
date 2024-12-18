@@ -346,6 +346,7 @@
       "minecraft:pillager": "2024-12-17 01:50:29 +0000",
       "minecraft:blaze": "2024-12-17 23:08:21 +0000",
       "minecraft:skeleton": "2024-12-17 00:44:04 +0000",
+      "minecraft:phantom": "2024-12-18 02:01:28 +0000",
       "minecraft:witch": "2024-12-17 20:13:28 +0000",
       "minecraft:wither_skeleton": "2024-12-17 23:08:40 +0000",
       "minecraft:ravager": "2024-12-17 20:16:25 +0000",
@@ -2026,6 +2027,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-12-18 02:01:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2024-12-17 23:10:59 +0000"
@@ -2095,6 +2102,12 @@
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2024-12-17 23:48:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-12-18 02:01:55 +0000"
     },
     "done": true
   },
@@ -2239,6 +2252,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2024-12-17 23:03:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-18 02:01:55 +0000"
     },
     "done": true
   },
