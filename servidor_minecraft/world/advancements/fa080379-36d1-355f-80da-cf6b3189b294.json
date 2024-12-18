@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-12-18 05:35:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-12-18 05:16:36 +0000"
@@ -38,6 +44,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2024-12-18 05:21:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-18 05:31:41 +0000"
     },
     "done": true
   },
@@ -71,6 +83,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-12-18 05:35:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-18 05:46:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2024-12-18 05:27:51 +0000"
@@ -80,6 +104,12 @@
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2024-12-18 05:25:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-18 05:38:28 +0000"
     },
     "done": true
   },
@@ -119,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-18 05:36:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-18 05:24:11 +0000"
@@ -137,6 +173,19 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-12-18 05:47:03 +0000",
+      "minecraft:nether_wastes": "2024-12-18 05:46:56 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-18 05:46:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-18 05:20:30 +0000"
@@ -146,6 +195,12 @@
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2024-12-18 05:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-18 05:46:56 +0000"
     },
     "done": true
   },
@@ -167,6 +222,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-12-18 05:34:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-18 05:44:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2024-12-18 05:16:36 +0000"
@@ -185,6 +252,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-18 05:46:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-12-18 05:20:30 +0000"
@@ -200,6 +273,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2024-12-18 05:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-18 05:34:31 +0000"
     },
     "done": true
   },
@@ -239,6 +318,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-18 05:46:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2024-12-18 05:25:57 +0000"
@@ -269,6 +354,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-18 05:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-18 05:48:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-18 05:10:34 +0000"
@@ -278,6 +375,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-18 05:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-12-18 05:35:34 +0000"
     },
     "done": true
   },
@@ -323,9 +426,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-12-18 05:47:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-12-18 05:20:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-18 05:30:21 +0000"
     },
     "done": true
   },
@@ -367,8 +482,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-18 05:41:36 +0000",
       "minecraft:skeleton": "2024-12-18 05:21:10 +0000",
-      "minecraft:spider": "2024-12-18 05:23:14 +0000"
+      "minecraft:phantom": "2024-12-18 05:36:55 +0000",
+      "minecraft:spider": "2024-12-18 05:23:14 +0000",
+      "minecraft:zombie": "2024-12-18 05:38:32 +0000"
     },
     "done": false
   },
@@ -408,6 +526,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-18 05:49:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2024-12-18 05:10:40 +0000"
@@ -440,15 +564,19 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:frozen_ocean": "2024-12-18 05:13:50 +0000",
       "minecraft:snowy_slopes": "2024-12-18 05:12:11 +0000",
-      "minecraft:frozen_river": "2024-12-18 05:11:09 +0000",
+      "minecraft:forest": "2024-12-18 05:32:09 +0000",
       "minecraft:taiga": "2024-12-18 05:16:31 +0000",
-      "minecraft:grove": "2024-12-18 05:12:47 +0000",
+      "minecraft:river": "2024-12-18 05:32:33 +0000",
       "minecraft:stony_shore": "2024-12-18 05:08:38 +0000",
       "minecraft:snowy_plains": "2024-12-18 05:08:35 +0000",
-      "minecraft:old_growth_spruce_taiga": "2024-12-18 05:17:22 +0000",
       "minecraft:snowy_taiga": "2024-12-18 05:14:25 +0000",
+      "minecraft:frozen_ocean": "2024-12-18 05:13:50 +0000",
+      "minecraft:frozen_river": "2024-12-18 05:11:09 +0000",
+      "minecraft:grove": "2024-12-18 05:12:47 +0000",
+      "minecraft:meadow": "2024-12-18 05:33:19 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-18 05:17:22 +0000",
+      "minecraft:plains": "2024-12-18 05:33:59 +0000",
       "minecraft:jagged_peaks": "2024-12-18 05:16:12 +0000"
     },
     "done": false
@@ -471,6 +599,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-18 05:31:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2024-12-18 05:30:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-18 05:20:30 +0000"
@@ -480,6 +620,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-18 05:20:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-18 05:34:58 +0000"
     },
     "done": true
   },
@@ -499,13 +645,27 @@
     "criteria": {
       "beetroot_soup": "2024-12-18 05:27:39 +0000",
       "sweet_berries": "2024-12-18 05:16:56 +0000",
-      "baked_potato": "2024-12-18 05:28:06 +0000"
+      "baked_potato": "2024-12-18 05:28:06 +0000",
+      "melon_slice": "2024-12-18 05:39:15 +0000",
+      "carrot": "2024-12-18 05:48:25 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-12-18 05:20:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-18 05:34:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-12-18 05:47:54 +0000"
     },
     "done": true
   },
@@ -533,6 +693,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-18 05:49:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2024-12-18 05:10:34 +0000"
@@ -542,6 +708,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-18 05:13:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-18 05:44:14 +0000"
     },
     "done": true
   },
