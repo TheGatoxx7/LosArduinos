@@ -44,3 +44,4 @@
 [02:06:49] [Server thread/INFO]: 3_14chulita left the game
 [02:06:54] [Server thread/INFO]: Marcelox23 lost connection: Disconnected
 [02:06:54] [Server thread/INFO]: Marcelox23 left the game
+[02:14:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-789, y=79, z=1203} jd{x=-787, y=79, z=1203}
