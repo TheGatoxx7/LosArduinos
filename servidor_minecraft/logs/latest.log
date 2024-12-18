@@ -26,3 +26,5 @@
 [22:44:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-768, y=71, z=1198} jd{x=-768, y=71, z=1197}
 [23:16:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-46, y=68, z=205} jd{x=-49, y=73, z=229}
 [23:16:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-46, y=68, z=205} jd{x=-44, y=70, z=228}
+[23:21:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=20, y=68, z=294} jd{x=-9, y=78, z=270}
+[23:21:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=20, y=68, z=294} jd{x=-9, y=77, z=270}
