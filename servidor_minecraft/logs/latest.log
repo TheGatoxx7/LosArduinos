@@ -30,3 +30,6 @@
 [23:21:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=20, y=68, z=294} jd{x=-9, y=77, z=270}
 [23:36:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=114, y=78, z=442} jd{x=71, y=65, z=476}
 [23:36:53] [Server thread/INFO]: Marcelox23 has made the advancement [Hidden in the Depths]
+[23:45:45] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-701, y=83, z=1208} jd{x=-703, y=87, z=1232}
+[23:45:45] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-701, y=83, z=1208} jd{x=-703, y=87, z=1232}
+[23:45:54] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-701, y=83, z=1208} jd{x=-708, y=85, z=1232}
