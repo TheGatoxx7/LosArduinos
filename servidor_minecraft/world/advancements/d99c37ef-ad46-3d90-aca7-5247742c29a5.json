@@ -503,6 +503,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-17 01:27:12 +0000",
+      "minecraft:skeleton": "2024-12-18 03:21:23 +0000",
       "minecraft:stray": "2024-12-17 00:46:10 +0000",
       "minecraft:zombie": "2024-12-17 00:32:29 +0000",
       "minecraft:zombie_villager": "2024-12-17 00:32:12 +0000"
@@ -1719,6 +1720,12 @@
   "minecraft:recipes/redstone/crimson_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-17 01:44:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2024-12-18 03:21:46 +0000"
     },
     "done": true
   },

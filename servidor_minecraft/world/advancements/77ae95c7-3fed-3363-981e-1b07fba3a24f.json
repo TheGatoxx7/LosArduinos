@@ -18,6 +18,7 @@
       "minecraft:deep_cold_ocean": "2024-12-17 00:53:27 +0000",
       "minecraft:frozen_ocean": "2024-12-16 23:51:44 +0000",
       "minecraft:frozen_river": "2024-12-17 01:37:08 +0000",
+      "minecraft:deep_frozen_ocean": "2024-12-18 03:21:07 +0000",
       "minecraft:grove": "2024-12-16 23:56:45 +0000",
       "minecraft:meadow": "2024-12-17 01:07:01 +0000",
       "minecraft:birch_forest": "2024-12-17 01:04:53 +0000",
@@ -333,6 +334,7 @@
       "potato": "2024-12-17 00:44:13 +0000",
       "cooked_beef": "2024-12-17 01:11:37 +0000",
       "baked_potato": "2024-12-17 00:49:47 +0000",
+      "cooked_salmon": "2024-12-18 03:26:11 +0000",
       "carrot": "2024-12-18 01:28:34 +0000"
     },
     "done": false
@@ -1764,6 +1766,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-12-18 03:22:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2024-12-18 03:12:18 +0000"
@@ -1773,6 +1781,18 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-18 03:08:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-18 03:25:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-18 03:25:51 +0000"
     },
     "done": true
   },
