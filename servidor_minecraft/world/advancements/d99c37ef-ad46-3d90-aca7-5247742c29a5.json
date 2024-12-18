@@ -478,7 +478,8 @@
       "cooked_mutton": "2024-12-17 00:21:04 +0000",
       "cooked_cod": "2024-12-17 00:35:53 +0000",
       "cooked_beef": "2024-12-17 01:11:17 +0000",
-      "baked_potato": "2024-12-17 00:45:35 +0000"
+      "baked_potato": "2024-12-17 00:45:35 +0000",
+      "beetroot": "2024-12-18 05:52:01 +0000"
     },
     "done": false
   },
@@ -1835,6 +1836,18 @@
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2024-12-18 04:37:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-12-18 05:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-18 05:51:53 +0000"
     },
     "done": true
   },
