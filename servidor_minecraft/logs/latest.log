@@ -24,3 +24,5 @@
 [22:21:45] [Server thread/INFO]: Marcelox23 joined the game
 [22:43:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-768, y=71, z=1198} jd{x=-768, y=71, z=1197}
 [22:44:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-768, y=71, z=1198} jd{x=-768, y=71, z=1197}
+[23:16:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-46, y=68, z=205} jd{x=-49, y=73, z=229}
+[23:16:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-46, y=68, z=205} jd{x=-44, y=70, z=228}
