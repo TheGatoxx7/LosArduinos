@@ -360,6 +360,7 @@
       "minecraft:pillager": "2024-12-18 03:43:58 +0000",
       "minecraft:blaze": "2024-12-18 04:38:19 +0000",
       "minecraft:skeleton": "2024-12-17 00:02:55 +0000",
+      "minecraft:zombified_piglin": "2024-12-18 04:56:53 +0000",
       "minecraft:enderman": "2024-12-18 03:56:43 +0000",
       "minecraft:stray": "2024-12-18 03:19:59 +0000",
       "minecraft:magma_cube": "2024-12-18 04:31:14 +0000",
@@ -2158,6 +2159,18 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2024-12-18 04:40:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-18 04:56:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-18 04:56:58 +0000"
     },
     "done": true
   },
