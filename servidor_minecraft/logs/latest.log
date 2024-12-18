@@ -22,3 +22,5 @@
 [22:21:12] [Server thread/INFO]: TheGatoxx7 joined the game
 [22:21:45] [Server thread/INFO]: Marcelox23[/127.44.235.55:52101] logged in with entity id 428 at (-1025.699999988079, 69.5625, 1479.300000011921)
 [22:21:45] [Server thread/INFO]: Marcelox23 joined the game
+[22:43:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-768, y=71, z=1198} jd{x=-768, y=71, z=1197}
+[22:44:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-768, y=71, z=1198} jd{x=-768, y=71, z=1197}
