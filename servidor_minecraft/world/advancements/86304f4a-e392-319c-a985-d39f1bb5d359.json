@@ -20,6 +20,7 @@
       "minecraft:old_growth_birch_forest": "2024-12-17 01:35:13 +0000",
       "minecraft:frozen_ocean": "2024-12-16 23:17:15 +0000",
       "minecraft:frozen_river": "2024-12-16 23:17:09 +0000",
+      "minecraft:cherry_grove": "2024-12-18 01:02:52 +0000",
       "minecraft:grove": "2024-12-16 23:25:12 +0000",
       "minecraft:meadow": "2024-12-17 00:26:19 +0000",
       "minecraft:birch_forest": "2024-12-17 01:33:21 +0000",
@@ -349,8 +350,11 @@
       "minecraft:wither_skeleton": "2024-12-17 23:08:40 +0000",
       "minecraft:ravager": "2024-12-17 20:16:25 +0000",
       "minecraft:hoglin": "2024-12-17 02:16:58 +0000",
+      "minecraft:cave_spider": "2024-12-18 01:30:55 +0000",
       "minecraft:piglin": "2024-12-17 22:58:27 +0000",
+      "minecraft:breeze": "2024-12-18 01:06:01 +0000",
       "minecraft:vindicator": "2024-12-17 20:14:00 +0000",
+      "minecraft:silverfish": "2024-12-18 01:25:15 +0000",
       "minecraft:magma_cube": "2024-12-17 23:20:53 +0000",
       "minecraft:spider": "2024-12-17 00:44:08 +0000",
       "minecraft:vex": "2024-12-17 22:32:23 +0000",
@@ -855,6 +859,7 @@
       "bread": "2024-12-17 00:32:31 +0000",
       "cooked_beef": "2024-12-17 22:25:33 +0000",
       "baked_potato": "2024-12-17 22:13:56 +0000",
+      "golden_carrot": "2024-12-18 00:55:12 +0000",
       "carrot": "2024-12-17 22:02:51 +0000"
     },
     "done": false
@@ -1967,15 +1972,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flow_armor_trim_smithing_template": {
+    "criteria": {
+      "has_flow_armor_trim_smithing_template": "2024-12-18 01:47:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2024-12-17 19:49:36 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2024-12-18 01:04:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2024-12-18 01:04:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2024-12-17 23:16:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2024-12-18 01:04:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/minecraft_trials_edition": {
+    "criteria": {
+      "minecraft_trials_edition": "2024-12-18 01:04:07 +0000"
     },
     "done": true
   },
@@ -2045,6 +2080,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wind_charge": {
+    "criteria": {
+      "has_breeze_rod": "2024-12-18 01:06:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_the_recipe": "2024-12-17 22:46:53 +0000"
@@ -2054,6 +2095,12 @@
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2024-12-17 23:48:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2024-12-18 01:04:06 +0000"
     },
     "done": true
   },
@@ -2072,6 +2119,12 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2024-12-17 23:25:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs": {
+    "criteria": {
+      "has_tuff_bricks": "2024-12-18 01:04:06 +0000"
     },
     "done": true
   },
@@ -2099,9 +2152,27 @@
     },
     "done": true
   },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2024-12-18 01:11:11 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2024-12-18 01:04:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/cure_zombie_villager": {
     "criteria": {
       "cured_zombie": "2024-12-17 22:00:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2024-12-18 01:04:06 +0000"
     },
     "done": true
   },
@@ -2123,6 +2194,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flow_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-18 01:47:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2024-12-17 23:09:03 +0000"
@@ -2132,6 +2209,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2024-12-17 20:18:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-18 01:27:39 +0000"
     },
     "done": true
   },
@@ -2147,9 +2230,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2024-12-18 01:06:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2024-12-17 23:03:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": "2024-12-18 01:23:30 +0000"
     },
     "done": true
   },
@@ -2195,6 +2290,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2024-12-18 01:04:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2024-12-17 22:46:54 +0000"
@@ -2204,6 +2305,12 @@
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-17 22:37:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_grate": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2024-12-18 01:04:15 +0000"
     },
     "done": true
   },
@@ -2279,6 +2386,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2024-12-18 01:04:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2024-12-17 20:09:29 +0000"
@@ -2300,6 +2413,18 @@
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-17 23:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-18 01:18:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2024-12-18 01:04:45 +0000"
     },
     "done": true
   },
@@ -2327,6 +2452,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-18 01:18:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2024-12-17 20:18:16 +0000"
@@ -2351,6 +2482,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/mace": {
+    "criteria": {
+      "has_breeze_rod": "2024-12-18 01:06:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-17 23:16:42 +0000"
@@ -2360,6 +2497,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2024-12-17 19:51:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2024-12-18 01:04:15 +0000"
     },
     "done": true
   },
@@ -2405,6 +2548,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-18 01:27:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/waxed_oxidized_copper_bulb": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2024-12-18 01:04:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2024-12-17 19:51:41 +0000"
@@ -2417,9 +2572,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/tuff_brick_wall": {
+    "criteria": {
+      "has_tuff_bricks": "2024-12-18 01:04:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2024-12-17 23:07:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_chiseled_copper_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2024-12-18 01:04:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab": {
+    "criteria": {
+      "has_tuff_bricks": "2024-12-18 01:04:06 +0000"
     },
     "done": true
   },
@@ -2459,6 +2632,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_grate_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2024-12-18 01:04:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2024-12-17 23:10:59 +0000"
@@ -2474,6 +2653,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-17 23:16:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2024-12-18 01:04:45 +0000"
     },
     "done": true
   },
