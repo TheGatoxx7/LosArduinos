@@ -21,6 +21,7 @@
       "minecraft:frozen_river": "2024-12-17 01:37:08 +0000",
       "minecraft:deep_frozen_ocean": "2024-12-18 03:21:07 +0000",
       "minecraft:ocean": "2024-12-18 03:30:39 +0000",
+      "minecraft:cherry_grove": "2024-12-18 04:08:22 +0000",
       "minecraft:grove": "2024-12-16 23:56:45 +0000",
       "minecraft:meadow": "2024-12-17 01:07:01 +0000",
       "minecraft:birch_forest": "2024-12-17 01:04:53 +0000",
@@ -336,6 +337,7 @@
       "potato": "2024-12-17 00:44:13 +0000",
       "cooked_beef": "2024-12-17 01:11:37 +0000",
       "baked_potato": "2024-12-17 00:49:47 +0000",
+      "melon_slice": "2024-12-18 04:26:22 +0000",
       "cooked_salmon": "2024-12-18 03:26:11 +0000",
       "carrot": "2024-12-18 01:28:34 +0000"
     },
@@ -1758,6 +1760,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-12-18 04:03:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2024-12-18 03:12:18 +0000"
@@ -1782,9 +1790,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-12-18 04:03:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-18 03:08:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-18 04:02:16 +0000"
     },
     "done": true
   },
@@ -1806,6 +1826,19 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-12-18 04:27:26 +0000",
+      "minecraft:nether_wastes": "2024-12-18 04:27:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-18 04:27:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2024-12-18 03:25:51 +0000"
@@ -1824,6 +1857,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-18 04:27:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-12-18 03:48:15 +0000"
@@ -1836,9 +1875,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-12-18 04:03:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-12-18 03:56:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-18 04:15:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-18 04:01:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-12-18 04:11:54 +0000"
     },
     "done": true
   },
@@ -1851,6 +1914,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-12-18 03:48:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-18 04:11:54 +0000"
     },
     "done": true
   },
