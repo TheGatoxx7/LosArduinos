@@ -43,27 +43,28 @@
       "minecraft:pillager": "2024-12-17 01:25:04 +0000",
       "minecraft:blaze": "2024-12-17 20:36:40 +0000",
       "minecraft:skeleton": "2024-12-17 00:17:48 +0000",
+      "minecraft:ravager": "2024-12-17 01:50:00 +0000",
+      "minecraft:ghast": "2024-12-17 19:07:11 +0000",
+      "minecraft:hoglin": "2024-12-17 23:39:58 +0000",
+      "minecraft:vindicator": "2024-12-17 01:48:01 +0000",
+      "minecraft:breeze": "2024-12-18 01:05:46 +0000",
+      "minecraft:magma_cube": "2024-12-17 19:03:59 +0000",
+      "minecraft:spider": "2024-12-16 23:04:49 +0000",
+      "minecraft:piglin_brute": "2024-12-19 01:36:47 +0000",
+      "minecraft:creeper": "2024-12-16 23:23:02 +0000",
+      "minecraft:slime": "2024-12-18 01:24:50 +0000",
+      "minecraft:evoker": "2024-12-17 20:17:59 +0000",
       "minecraft:phantom": "2024-12-17 22:44:05 +0000",
       "minecraft:zombified_piglin": "2024-12-18 04:57:07 +0000",
       "minecraft:witch": "2024-12-17 20:13:29 +0000",
       "minecraft:wither_skeleton": "2024-12-17 20:39:13 +0000",
-      "minecraft:ravager": "2024-12-17 01:50:00 +0000",
-      "minecraft:ghast": "2024-12-17 19:07:11 +0000",
-      "minecraft:hoglin": "2024-12-17 23:39:58 +0000",
       "minecraft:cave_spider": "2024-12-17 00:28:47 +0000",
       "minecraft:piglin": "2024-12-17 19:07:34 +0000",
-      "minecraft:vindicator": "2024-12-17 01:48:01 +0000",
-      "minecraft:breeze": "2024-12-18 01:05:46 +0000",
       "minecraft:enderman": "2024-12-18 00:51:15 +0000",
       "minecraft:silverfish": "2024-12-18 01:04:04 +0000",
-      "minecraft:magma_cube": "2024-12-17 19:03:59 +0000",
-      "minecraft:spider": "2024-12-16 23:04:49 +0000",
       "minecraft:vex": "2024-12-17 20:16:40 +0000",
       "minecraft:zombie": "2024-12-16 23:14:47 +0000",
-      "minecraft:creeper": "2024-12-16 23:23:02 +0000",
-      "minecraft:zombie_villager": "2024-12-17 02:00:03 +0000",
-      "minecraft:slime": "2024-12-18 01:24:50 +0000",
-      "minecraft:evoker": "2024-12-17 20:17:59 +0000"
+      "minecraft:zombie_villager": "2024-12-17 02:00:03 +0000"
     },
     "done": false
   },
@@ -3723,6 +3724,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-19 01:40:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot": {
     "criteria": {
       "has_copper_block": "2024-12-19 00:40:12 +0000"
@@ -3732,6 +3739,12 @@
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2024-12-18 23:22:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-19 01:40:59 +0000"
     },
     "done": true
   },
@@ -3783,9 +3796,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-19 01:40:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-19 01:40:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2024-12-19 00:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-19 01:40:59 +0000"
     },
     "done": true
   },
@@ -3807,6 +3838,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-19 01:40:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-18 23:22:39 +0000"
@@ -3816,6 +3853,12 @@
   "minecraft:recipes/building_blocks/cut_copper": {
     "criteria": {
       "has_copper_block": "2024-12-19 00:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-19 01:36:26 +0000"
     },
     "done": true
   },
@@ -3846,6 +3889,12 @@
   "minecraft:recipes/building_blocks/chiseled_copper_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2024-12-19 00:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-19 01:40:59 +0000"
     },
     "done": true
   },
