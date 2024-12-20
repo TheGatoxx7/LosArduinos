@@ -108,3 +108,5 @@
 [02:56:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-38, y=96, z=155} jd{x=-31, y=85, z=152}
 [02:59:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-81, y=97, z=162} jd{x=-88, y=95, z=154}
 [02:59:49] [Server thread/INFO]: Villager cmk['Villager'/66494, l='ServerLevel[world]', x=-70.36, y=103.00, z=293.51] died, message: 'Villager burned to death'
+[03:05:56] [Server thread/INFO]: Marcelox23 lost connection: Disconnected
+[03:05:56] [Server thread/INFO]: Marcelox23 left the game
