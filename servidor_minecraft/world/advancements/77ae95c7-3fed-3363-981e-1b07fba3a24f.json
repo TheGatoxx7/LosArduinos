@@ -334,6 +334,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "mutton": "2024-12-18 05:32:24 +0000",
+      "spider_eye": "2024-12-20 01:07:43 +0000",
       "bread": "2024-12-17 00:40:58 +0000",
       "cooked_chicken": "2024-12-18 05:33:37 +0000",
       "rotten_flesh": "2024-12-17 00:00:25 +0000",
@@ -370,6 +371,7 @@
       "minecraft:cave_spider": "2024-12-20 00:41:33 +0000",
       "minecraft:enderman": "2024-12-18 03:56:43 +0000",
       "minecraft:stray": "2024-12-18 03:19:59 +0000",
+      "minecraft:silverfish": "2024-12-20 01:12:17 +0000",
       "minecraft:magma_cube": "2024-12-18 04:31:14 +0000",
       "minecraft:spider": "2024-12-17 01:05:18 +0000",
       "minecraft:zombie": "2024-12-17 00:01:33 +0000",
@@ -2296,6 +2298,72 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2024-12-20 00:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2024-12-20 01:09:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-20 01:12:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/minecraft_trials_edition": {
+    "criteria": {
+      "minecraft_trials_edition": "2024-12-20 01:09:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-20 01:12:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2024-12-20 01:09:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs": {
+    "criteria": {
+      "has_tuff_bricks": "2024-12-20 01:09:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2024-12-20 01:09:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2024-12-20 01:09:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall": {
+    "criteria": {
+      "has_tuff_bricks": "2024-12-20 01:09:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab": {
+    "criteria": {
+      "has_tuff_bricks": "2024-12-20 01:09:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-20 01:12:39 +0000"
     },
     "done": true
   },

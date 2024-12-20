@@ -20,7 +20,9 @@
       "minecraft:frozen_river": "2024-12-16 23:17:10 +0000",
       "minecraft:deep_dark": "2024-12-17 02:03:14 +0000",
       "minecraft:grove": "2024-12-16 23:51:58 +0000",
-      "minecraft:old_growth_spruce_taiga": "2024-12-17 00:11:14 +0000"
+      "minecraft:meadow": "2024-12-20 01:02:11 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-17 00:11:14 +0000",
+      "minecraft:plains": "2024-12-20 01:02:23 +0000"
     },
     "done": false
   },
@@ -602,6 +604,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-17 00:08:17 +0000",
+      "minecraft:enderman": "2024-12-20 01:15:32 +0000",
       "minecraft:spider": "2024-12-17 00:07:08 +0000",
       "minecraft:zombie": "2024-12-16 23:54:19 +0000",
       "minecraft:zombie_villager": "2024-12-17 02:22:15 +0000"
@@ -1430,9 +1433,99 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 01:11:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 01:11:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 01:11:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 01:11:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 01:11:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 01:11:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 01:11:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-20 01:05:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 01:11:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 01:11:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-20 01:02:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 01:11:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 01:11:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2024-12-20 00:50:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 01:11:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-20 01:11:26 +0000"
     },
     "done": true
   },
