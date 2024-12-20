@@ -101,3 +101,7 @@
 [02:20:35] [Server thread/INFO]: [Not Secure] <Gisi_13> zzz
 [02:26:22] [Server thread/INFO]: 3_14chulita lost connection: Disconnected
 [02:26:22] [Server thread/INFO]: 3_14chulita left the game
+[02:31:15] [Server thread/INFO]: Gisi_13 has made the advancement [What a Deal!]
+[02:35:13] [Server thread/INFO]: Gisi_13 lost connection: Disconnected
+[02:35:13] [Server thread/INFO]: Gisi_13 left the game
+[02:39:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-61, y=67, z=253} jd{x=-62, y=66, z=253}
