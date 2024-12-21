@@ -1,112 +1,21 @@
-[00:28:05] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:28:07] [ServerMain/INFO]: Loaded 1290 recipes
-[00:28:07] [ServerMain/INFO]: Loaded 1399 advancements
-[00:28:08] [Server thread/INFO]: Starting minecraft server version 1.21
-[00:28:08] [Server thread/INFO]: Loading properties
-[00:28:08] [Server thread/INFO]: Default game type: SURVIVAL
-[00:28:08] [Server thread/INFO]: Generating keypair
-[00:28:08] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:28:08] [Server thread/INFO]: Using epoll channel type
-[00:28:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:28:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:28:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:28:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:28:08] [Server thread/INFO]: Preparing level "world"
-[00:28:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:28:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:28:12] [Server thread/INFO]: Time elapsed: 524 ms
-[00:28:12] [Server thread/INFO]: Done (3.663s)! For help, type "help"
-[00:33:02] [Server thread/INFO]: TheGatoxx7[/127.239.173.224:38849] logged in with entity id 8 at (-763.5, 72.0, 1203.5)
-[00:33:02] [Server thread/INFO]: TheGatoxx7 joined the game
-[00:34:54] [Server thread/INFO]: 3_14chulita[/127.118.68.88:49555] logged in with entity id 1100 at (-594.6999999880791, 36.0, 1199.300000011921)
-[00:34:54] [Server thread/INFO]: 3_14chulita joined the game
-[00:35:21] [Server thread/INFO]: [Not Secure] <3_14chulita> oal chavo
-[00:40:51] [Server thread/INFO]: [Not Secure] <3_14chulita> -620/-18/1250 hay wardenxd
-[00:40:59] [Server thread/INFO]: [Not Secure] <TheGatoxx7> warden o ancient
-[00:41:01] [Server thread/INFO]: [Not Secure] <TheGatoxx7> ?
-[00:41:07] [Server thread/INFO]: [Not Secure] <3_14chulita> diferencia:v?
-[00:41:13] [Server thread/INFO]: [Not Secure] <3_14chulita> esta eso verde del warden
-[00:41:23] [Server thread/INFO]: [Not Secure] <TheGatoxx7> la primera solo es mina
-[00:41:28] [Server thread/INFO]: [Not Secure] <TheGatoxx7> en la segunda si hay loot
-[00:41:56] [Server thread/INFO]: [Not Secure] <TheGatoxx7> no ibas a rushear netherita?xd
-[00:41:58] [Server thread/INFO]: [Not Secure] <3_14chulita> eso eso eso la primera
-[00:42:05] [Server thread/INFO]: [Not Secure] <3_14chulita> mi armadura ta muriendo wa minar
-[00:42:25] [Server thread/INFO]: [Not Secure] <TheGatoxx7> q fabio me devuelva mi pico y te acompaño
-[00:44:34] [Server thread/INFO]: [Not Secure] <3_14chulita> como se reparaba armadura? con yunque no?
-[00:44:38] [Server thread/INFO]: [Not Secure] <TheGatoxx7> chim
-[00:44:50] [Server thread/INFO]: [Not Secure] <TheGatoxx7> 3 bloques de iron y 4 lingotes para hacerlo
-[00:44:57] [Server thread/INFO]: [Not Secure] <3_14chulita> no hay yunque?:v
-[00:45:07] [Server thread/INFO]: [Not Secure] <TheGatoxx7> en mi casa
-[00:49:36] [Server thread/INFO]: Gisi_13[/127.60.68.160:39431] logged in with entity id 6791 at (-836.2284226214448, 95.0, 877.6382607777662)
-[00:49:36] [Server thread/INFO]: Gisi_13 joined the game
-[00:49:46] [Server thread/INFO]: [Not Secure] <Gisi_13> ojo
-[00:49:51] [Server thread/INFO]: [Not Secure] <Gisi_13> han expandido mis cultivo
-[00:49:54] [Server thread/INFO]: [Not Secure] <Gisi_13> se agradece
-[00:52:22] [Server thread/INFO]: Marcelox23[/127.44.235.55:51893] logged in with entity id 8136 at (-1025.4794666056605, 71.0, 1463.900314908173)
-[00:52:22] [Server thread/INFO]: Marcelox23 joined the game
-[00:52:27] [Server thread/INFO]: [Not Secure] <TheGatoxx7> dc?
-[00:52:35] [Server thread/INFO]: [Not Secure] <Marcelox23> si
-[00:53:36] [Server thread/INFO]: [Not Secure] <TheGatoxx7> xddddddddddddd
-[00:53:40] [Server thread/INFO]: [Not Secure] <TheGatoxx7> full netherite ps
-[00:54:13] [Server thread/INFO]: [Not Secure] <3_14chulita> los murcielagos dan comida?:,v
-[00:54:17] [Server thread/INFO]: [Not Secure] <Gisi_13> no nd
-[00:56:46] [Server thread/INFO]: 3_14chulita lost connection: Disconnected
-[00:56:46] [Server thread/INFO]: 3_14chulita left the game
-[01:02:50] [Server thread/INFO]: Gisi_13 has made the advancement [Enchanter]
-[01:03:31] [Server thread/INFO]: 3_14chulita[/127.118.68.88:52033] logged in with entity id 14911 at (-737.3000000119209, -40.0, 1194.699999988079)
-[01:03:31] [Server thread/INFO]: 3_14chulita joined the game
-[01:05:32] [Server thread/INFO]: [Not Secure] <TheGatoxx7> jorge dc?
-[01:05:38] [Server thread/INFO]: [Not Secure] <TheGatoxx7> tamos gc y fabio
-[01:05:43] [Server thread/INFO]: [Not Secure] <3_14chulita> toi con bulla
-[01:09:25] [Server thread/INFO]: 3_14chulita has made the advancement [Minecraft: Trial(s) Edition]
-[01:13:25] [Server thread/INFO]: [Not Secure] <3_14chulita> :'v
-[01:17:29] [Server thread/INFO]: 3_14chulita was slain by TheGatoxx7
-[01:17:33] [Server thread/INFO]: [Not Secure] <3_14chulita> eres un imbecil
-[01:17:38] [Server thread/INFO]: [Not Secure] <TheGatoxx7> PU
-[01:17:42] [Server thread/INFO]: [Not Secure] <3_14chulita> 30 de exp
-[01:18:04] [Server thread/INFO]: TheGatoxx7 was slain by 3_14chulita
-[01:18:22] [Server thread/INFO]: 3_14chulita was slain by TheGatoxx7
-[01:18:43] [Server thread/INFO]: [Not Secure] <TheGatoxx7> Usa los aldeanos wbn
-[01:18:47] [Server thread/INFO]: [Not Secure] <3_14chulita> klla kchao
-[01:18:48] [Server thread/INFO]: [Not Secure] <TheGatoxx7> no sabía q estabas low
-[01:20:18] [Server thread/WARN]: Gisi_13 moved too quickly! 0.5231445695538923,-10.531546555149887,0.678954947866373
-[01:41:13] [Server thread/INFO]: TheGatoxx7 fell from a high place
-[01:41:23] [Server thread/INFO]: [Not Secure] <Marcelox23> 😂😂😂😂😂😂😂😂
-[01:45:18] [Server thread/INFO]: Gisi_13 has made the advancement [Take Aim]
-[01:46:56] [Server thread/INFO]: [Not Secure] <Gisi_13> no nd
-[01:46:58] [Server thread/INFO]: TheGatoxx7 lost connection: Disconnected
-[01:46:58] [Server thread/INFO]: TheGatoxx7 left the game
-[01:46:58] [Server thread/INFO]: [Not Secure] <Marcelox23> ZZzzz
-[01:46:59] [Server thread/INFO]: [Not Secure] <Marcelox23> Porfaaaa
-[01:47:15] [Server thread/INFO]: [Not Secure] <Gisi_13> Zzz
-[01:47:26] [Server thread/INFO]: [Not Secure] <Marcelox23> Jorge desconectate porfa
-[01:47:28] [Server thread/INFO]: [Not Secure] <Marcelox23> un rato
-[01:47:29] [Server thread/INFO]: [Not Secure] <Marcelox23> para dormir
-[01:47:31] [Server thread/INFO]: [Not Secure] <Marcelox23> T_T
-[01:47:35] [Server thread/INFO]: 3_14chulita lost connection: Disconnected
-[01:47:35] [Server thread/INFO]: 3_14chulita left the game
-[01:48:05] [Server thread/INFO]: 3_14chulita[/127.118.68.88:53029] logged in with entity id 40505 at (-764.6091839652178, 72.0, 1209.699999988079)
-[01:48:05] [Server thread/INFO]: 3_14chulita joined the game
-[01:48:10] [Server thread/INFO]: TheGatoxx7[/127.239.173.224:48603] logged in with entity id 40731 at (-630.1294294487803, 60.0, 1262.848487710041)
-[01:48:10] [Server thread/INFO]: TheGatoxx7 joined the game
-[01:56:55] [Server thread/INFO]: TheGatoxx7 has made the advancement [Sneak 100]
-[02:02:58] [Server thread/INFO]: Villager cmk['Villager'/30079, l='ServerLevel[world]', x=-1017.70, y=65.00, z=1524.30] died, message: 'Villager was slain by Zombie'
-[02:04:26] [Server thread/INFO]: Villager cmk['Villager'/30095, l='ServerLevel[world]', x=-1017.70, y=65.00, z=1526.70] died, message: 'Villager was slain by Zombie'
-[02:05:50] [Server thread/INFO]: Villager cmk['Villager'/30080, l='ServerLevel[world]', x=-1017.55, y=65.00, z=1526.70] died, message: 'Villager was slain by Zombie'
-[02:06:21] [Server thread/INFO]: 3_14chulita has made the advancement [Sneak 100]
-[02:08:01] [Server thread/INFO]: Villager cmk['Villager'/30083, l='ServerLevel[world]', x=-1017.62, y=65.00, z=1526.70] died, message: 'Villager was slain by Zombie'
-[02:09:11] [Server thread/INFO]: Villager cmk['Villager'/30094, l='ServerLevel[world]', x=-1017.70, y=65.00, z=1526.70] died, message: 'Villager was slain by Zombie'
-[02:10:40] [Server thread/INFO]: Villager cmk['Villager'/30092, l='ServerLevel[world]', x=-1017.54, y=65.00, z=1526.70] died, message: 'Villager was slain by Zombie'
-[02:15:31] [Server thread/INFO]: 3_14chulita has made the advancement [Under Lock and Key]
-[02:20:35] [Server thread/INFO]: [Not Secure] <Gisi_13> zzz
-[02:26:22] [Server thread/INFO]: 3_14chulita lost connection: Disconnected
-[02:26:22] [Server thread/INFO]: 3_14chulita left the game
-[02:31:15] [Server thread/INFO]: Gisi_13 has made the advancement [What a Deal!]
-[02:35:13] [Server thread/INFO]: Gisi_13 lost connection: Disconnected
-[02:35:13] [Server thread/INFO]: Gisi_13 left the game
-[02:39:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-61, y=67, z=253} jd{x=-62, y=66, z=253}
-[02:56:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-38, y=96, z=155} jd{x=-31, y=85, z=152}
-[02:59:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-81, y=97, z=162} jd{x=-88, y=95, z=154}
-[02:59:49] [Server thread/INFO]: Villager cmk['Villager'/66494, l='ServerLevel[world]', x=-70.36, y=103.00, z=293.51] died, message: 'Villager burned to death'
-[03:05:56] [Server thread/INFO]: Marcelox23 lost connection: Disconnected
-[03:05:56] [Server thread/INFO]: Marcelox23 left the game
+[01:25:32] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:25:34] [ServerMain/INFO]: Loaded 1290 recipes
+[01:25:34] [ServerMain/INFO]: Loaded 1399 advancements
+[01:25:35] [Server thread/INFO]: Starting minecraft server version 1.21
+[01:25:35] [Server thread/INFO]: Loading properties
+[01:25:35] [Server thread/INFO]: Default game type: SURVIVAL
+[01:25:35] [Server thread/INFO]: Generating keypair
+[01:25:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:25:35] [Server thread/INFO]: Using epoll channel type
+[01:25:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:25:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:25:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:25:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:25:35] [Server thread/INFO]: Preparing level "world"
+[01:25:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:25:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:25:39] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[01:25:39] [Server thread/INFO]: Time elapsed: 619 ms
+[01:25:39] [Server thread/INFO]: Done (3.698s)! For help, type "help"
+[01:29:57] [Server thread/INFO]: Marcelox23[/127.44.235.55:34657] logged in with entity id 8 at (-1015.2286762418837, 65.0, 1525.913180124097)
+[01:29:57] [Server thread/INFO]: Marcelox23 joined the game
